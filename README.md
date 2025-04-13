@@ -22,7 +22,7 @@ This project is an AI chatbot similar to Google Gemini. It utilizes the Gemini A
 1. **Clone the Repository**
 
    ```bash
-      git clone https://github.com/abh1nav9/Sylus-AI.git
+      git clone https://github.com/jatinverma04/Stylus-AI
       cd Sylus-AI
 
 2. **Install Dependencies**
